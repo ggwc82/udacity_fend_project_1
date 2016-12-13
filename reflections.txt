@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+New skills - I’ve done most of this before however it’s good to go over the basics again. The tree structure for nested elements (parent and child), and also the type of paths (external, internal, absolute and relative) were explained well.
+
+All of the material, and quizzes have been easy so far.
+
+The only difficult things would be to remember and explain the correct terminology.
+
+Problem solving skills - I’ve always defaulted to googling and looking up the documentation in the first project.
